@@ -1,0 +1,5 @@
+printer-*
+firmware.bin
+klipper.bin
+klipper.uf2
+config_backups/
